@@ -1,0 +1,68 @@
+@font-face {
+  font-family: 'Roboto';
+  src: url("Roboto-Black.eot");
+  src: url("Roboto-Black.eot?#iefix") format("embedded-opentype"), url("Roboto-Black.woff2") format("woff2"), url("Roboto-Black.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: url("Roboto-BlackItalic.eot?#iefix") format("embedded-opentype"), url("Roboto-BlackItalic.woff2") format("woff2"), url("Roboto-BlackItalic.woff") format("woff");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: url("Roboto-BoldItalic.eot");
+  src: url("Roboto-BoldItalic.eot?#iefix") format("embedded-opentype"), url("Roboto-BoldItalic.woff2") format("woff2"), url("Roboto-BoldItalic.woff") format("woff");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: url("Roboto-Regular.eot");
+  src: url("Roboto-Regular.eot?#iefix") format("embedded-opentype"), url("Roboto-Regular.woff2") format("woff2"), url("Roboto-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+* {
+  margin: 0px;
+  padding: 0px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-family: sans-serif;
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+.container {
+  width: 100%;
+  height: 100%;
+  max-width: 1400px;
+  padding: 0 50px;
+}
+
+.button {
+  border: 1px solid;
+  border-radius: 8px;
+  background-color: linear-gradient(194.68deg, #FFB548 11.27%, #F3AF34 90.4%);
+}
+
+.btn {
+  padding: 15px 25px;
+  color: #1a1917;
+  border-radius: 4px;
+  background: linear-gradient(195deg, #ffb548 11.27%, #f3af34 90.4%);
+}
+/*# sourceMappingURL=stayle.css.map */

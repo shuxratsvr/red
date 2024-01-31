@@ -1,0 +1,44 @@
+@font-face {
+font-family: 'Roboto';
+src: url('Roboto-Black.eot');
+src: url('Roboto-Black.eot?#iefix') format('embedded-opentype'),
+    url('Roboto-Black.woff2') format('woff2'),
+    url('Roboto-Black.woff') format('woff');
+font-weight: 900;
+font-style: normal;
+font-display: swap;
+}
+
+ @font-face {
+font-family: 'Roboto';
+src: url('Roboto-BlackItalic.eot?#iefix') format('embedded-opentype'),
+    url('Roboto-BlackItalic.woff2') format('woff2'),
+    url('Roboto-BlackItalic.woff') format('woff');
+font-weight: 900;
+font-style: italic;
+font-display: swap;
+}
+ 
+
+
+ @font-face {
+font-family: 'Roboto';
+src: url('Roboto-BoldItalic.eot');
+src: url('Roboto-BoldItalic.eot?#iefix') format('embedded-opentype'),
+    url('Roboto-BoldItalic.woff2') format('woff2'),
+    url('Roboto-BoldItalic.woff') format('woff');
+font-weight: bold;
+font-style: italic;
+font-display: swap;
+ }
+                                         
+ @font-face {
+font-family: 'Roboto';
+src: url('Roboto-Regular.eot');
+src: url('Roboto-Regular.eot?#iefix') format('embedded-opentype'),
+    url('Roboto-Regular.woff2') format('woff2'),
+    url('Roboto-Regular.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+font-display: swap;
+ }
