@@ -65,4 +65,11 @@ a {
   border-radius: 4px;
   background: linear-gradient(195deg, #ffb548 11.27%, #f3af34 90.4%);
 }
+
+.header {
+  width: 100%;
+  max-width: 1400px;
+  background-image: url(../img/);
+  background-color: black;
+}
 /*# sourceMappingURL=stayle.css.map */
